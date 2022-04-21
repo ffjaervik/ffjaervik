@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ffjaervik
 - 👀 I’m interested in tech ⚙️, guitars 🎸 and pizza 🍕
-- 🌱 I’m currently learning the basics of Web Development (HTML5, CSS & JavaScript
+- 🌱 I’m currently learning the basics of Web Development (HTML5, CSS & JavaScript)
 - 💞️ I’m looking to collaborate on anything relating to web app's
 
 <!---
