@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ffjaervik
-- 👀 I’m interested in tech ⚙️, guitars 🎸 and pizza 🍕
-- 🌱 I’m currently learning the basics of Web Development (HTML5, CSS & JavaScript)
+- 👋 Hi, I’m Fabian.
+- 👀 I’m interested in tech ⚙️, guitars 🎸 and oats 🥣
+- 👨‍🎓 Recently, I graduated from School of Code's Bootcamp where I learned some industry standard technologies like: HTML, CSS, JavaScript, React, Node.js, PostgreSQL 
+- 🌱 I’m currently improving my skills in those technologies and learning new ones like: TypeScript, & Python.
 - 💞️ I’m looking to collaborate on anything relating to web app's
 
 <!---
