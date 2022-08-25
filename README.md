@@ -5,10 +5,12 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Fabian.
 - 👀 I’m interested in tech ⚙️, guitars 🎸 and oats 🥣
-- 👨‍🎓 Recently, I graduated from School of Code's Bootcamp where I learned some industry standard technologies like: HTML, CSS, JavaScript, React, Node.js, PostgreSQL 
-- 🌱 I’m currently improving my skills in those technologies and learning new ones like: TypeScript, & Python.
+- 👨‍🎓 In August I graduated from the <a href="https://www.schoolofcode.co.uk/">School of Code</a> full-stack software development bootcamp.
+- 🌱 I’m currently improving my skills in Typescript.
 - 💞️ I’m looking to collaborate on anything relating to web app's
 
+
+<a href="https://www.schoolofcode.co.uk/" rel="nofollow">School of Code</a>
 ---
 
 🧰 Toolbox
