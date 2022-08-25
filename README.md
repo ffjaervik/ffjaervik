@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on anything relating to web app's
 
 
-<a href="https://www.schoolofcode.co.uk/" rel="nofollow">School of Code</a>
+
 ---
 
 🧰 Toolbox
